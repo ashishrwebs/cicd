@@ -41,6 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>mavendemo_cicd</finalName>
 	</build>
 
 </project>
